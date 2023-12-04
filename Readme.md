@@ -2,6 +2,8 @@
 
 This Python script allows you to upload videos to YouTube using the YouTube Data API.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bishal-dahal/Python-Youtube-Uploader/blob/main/Uploader.ipynb)
+
 ## Requirements
 
 This script requires the following Python packages:
