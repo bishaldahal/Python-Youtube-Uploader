@@ -22,11 +22,15 @@ pip install -r requirements.txt
 To use this script, you need to provide it with a client_secrets.json file from the Google API Console. This file should contain the OAuth 2.0 information for your application, including its client_id and client_secret.
 
 Once you have your client_secrets.json file, you can run the script with the following command:
-`python upload.py`
+```bash
+python upload.py
+```
 
 
 By default, the script will upload all video files in the videos directory. You can specify the title, description, category, keywords, and privacy status of the videos with command line arguments. For more information on these arguments, run:
-`python upload.py --help`
+```bash
+python upload.py --help
+```
 
 
 # License
